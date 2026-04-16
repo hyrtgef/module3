@@ -8,9 +8,12 @@ maxlen
 mysh
 mssh
 data.bin
+myprogram
 *.o
 *.exe
 
 # Текстовые файлы
 result.txt
 numbers.txt
+output.txt
+
