@@ -1,0 +1,15 @@
+# Скомпилированные бинарные файлы 
+phonebook
+myshell
+sum
+concat
+maxlen
+mysh
+mssh
+data.bin
+*.o
+*.exe
+
+# Текстовые файлы
+result.txt
+numbers.txt
