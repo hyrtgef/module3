@@ -9,6 +9,10 @@ mysh
 mssh
 data.bin
 myprogram
+server
+client
+user1
+user2
 *.o
 *.exe
 
